@@ -12,9 +12,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
 }
 .ellipse {
+}
+.image {
 }
 .primary_button {
   color:#FFFFFF;
@@ -84,5 +88,16 @@
   font-style:normal;
   font-size:21px;
   color:#555555;
+}
+.shape {
+  font-family:"ArialMT", "Arial", sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:10px;
+  color:#000000;
+}
+.icon {
+}
+.shape1 {
 }
 textarea, select, input, button, div, svg { outline: none; }
